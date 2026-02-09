@@ -73,3 +73,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#BigStorageAssets
+/[Aa]ssets/2D Assets/
+/[Aa]ssets/3D Assets/
+/[Aa]ssets/Animation/
+/[Aa]ssets/bgm/
+/[Aa]ssets/Enemy/
+/[Aa]ssets/MMD4Mecanim/
+/[Aa]ssets/Prefabs/
+
